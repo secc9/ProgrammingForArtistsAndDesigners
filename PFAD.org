@@ -4,7 +4,16 @@
 [[https://learn.gold.ac.uk/course/view.php?id=27878][PFAD VLE]]
 
 
-some text here
+* Extra Resources
+
+[[https://github.com/terkelg/awesome-creative-coding][awesome creative coding github]]
+
+[[https://junkiyoshi.com/][Some OpenFrameworks programs]]
+
+[[https://youtu.be/dwt2NAd1ZYY?si=9cfn4pcZ8wJT_OaR][OpenFrameworks tutorals]]
+
+
+
 
 
 * Week_01
