@@ -6,6 +6,7 @@
 
 * Extra Resources
 
+** Online
 [[https://github.com/terkelg/awesome-creative-coding][awesome creative coding github]]
 
 [[https://junkiyoshi.com/][Some OpenFrameworks programs]]
@@ -13,6 +14,39 @@
 [[https://youtu.be/dwt2NAd1ZYY?si=9cfn4pcZ8wJT_OaR][OpenFrameworks tutorals]]
 
 
+** Books
+
+
+
+** Artists to look at
+*** Project aggregators
+- [[https://www.creativeapplications.net/][CreativeApplications]]
+- [[https://ars.electronica.art/prix/en/][arselectronica]]
+- [[https://rhizome.org/][rhizome]]
+- [[https://experiments.withgoogle.com/][devart]]
+- [[http://www.mediaartnet.org/][mediaart]]
+- [[https://www.vice.com/en/topic/creators][vice creators]]
+
+
+
+*** Artists
+
+- [[http://www.flong.com/][Golan Levin]]
+- [[https://julianoliver.com/output/][julian oliver]]
+- [[https://www.liaworks.com/][LIA works]]
+- [[https://www.memo.tv/][Memo Akten]]
+- [[http://zach.li/][Zack Lieberman]]
+- [[https://tegabrain.com/][Tega Brain]]
+- [[https://lav.io/][Sam Levigne]]
+- [[https://reas.com/][Casey Reas]]
+- [[https://www.ryoichikurokawa.com/][Ryochi Kurokawa]]
+- [[https://www.ryojiikeda.com/][Ryoji Ikeda]]
+- [[https://www.uva.co.uk/][United Visual Artists]]
+- [[https://portfolio.decontextualize.com/][Allison Parrish]]
+- [[https://inconvergent.net/][Anders Hoff]]
+- [[http://www.emohr.com/][Manfred Mohr]]
+- [[http://www.verostko.com/][Roman Verostko]]
+- [[http://www.veramolnar.com/][Vera Molnar]]
 
 
 
