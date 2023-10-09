@@ -3,6 +3,21 @@
 
 [[https://learn.gold.ac.uk/course/view.php?id=27878][PFAD VLE]]
 
+* ASSESMENTS
+** Mid-Term Project [10%] - Due 20/11/2023
+
+
+Opens: Thursday, 2 November 2023, 4:00 PM
+Due: Monday, 20 November 2023, 4:00 PM
+
+
+** End of Term Final Project [80%] - Due 29/01/2024
+
+
+Opens: Tuesday, 16 January 2024, 4:00 PM
+Due: Monday, 29 January 2024, 4:00 PM
+
+
 
 * Extra Resources
 
@@ -51,6 +66,20 @@
 
 
 * Week_01
+
+- Procedural art
+  - instructions and diagrams as a form of art
+
+    - research
+
+    - [[https://massmoca.org/sol-lewitt/][Sol Le Witt]]
+
+
+
+- [[https://openframeworks.cc/ofBook/chapters/setup_and_project_structure.html][OF Structure]]
+
+- Homework
+
 
 * Week_02
 
