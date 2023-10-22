@@ -1,0 +1,176 @@
+#+title: Programming for Artists and Designers Org File
+#+author: Ashley Sagar
+
+[[https://learn.gold.ac.uk/course/view.php?id=27878][PFAD VLE]]
+
+* YOU DO GET INSPIRED BY LOOKING AT THINGS YOU LIKE!! 
+
+* ASSESMENTS
+** Mid-Term Project [10%] - Due 20/11/2023
+
+
+Opens: Thursday, 2 November 2023, 4:00 PM
+Due: Monday, 20 November 2023, 4:00 PM
+
+
+** End of Term Final Project [80%] - Due 29/01/2024
+
+
+Opens: Tuesday, 16 January 2024, 4:00 PM
+Due: Monday, 29 January 2024, 4:00 PM
+
+
+
+* Extra Resources
+
+** Online
+[[https://github.com/terkelg/awesome-creative-coding][awesome creative coding github]]
+
+[[https://junkiyoshi.com/][Some OpenFrameworks programs]]
+
+[[https://youtu.be/dwt2NAd1ZYY?si=9cfn4pcZ8wJT_OaR][OpenFrameworks tutorals]]
+
+
+** Books
+
+
+
+** Artists to look at
+*** Project aggregators
+- [[https://www.creativeapplications.net/][CreativeApplications]]
+- [[https://ars.electronica.art/prix/en/][arselectronica]]
+- [[https://rhizome.org/][rhizome]]
+- [[https://experiments.withgoogle.com/][devart]]
+- [[http://www.mediaartnet.org/][mediaart]]
+- [[https://www.vice.com/en/topic/creators][vice creators]]
+
+
+
+*** Artists
+
+- [[http://www.flong.com/][Golan Levin]]
+- [[https://julianoliver.com/output/][julian oliver]]
+- [[https://www.liaworks.com/][LIA works]]
+- [[https://www.memo.tv/][Memo Akten]]
+- [[http://zach.li/][Zack Lieberman]]
+- [[https://tegabrain.com/][Tega Brain]]
+- [[https://lav.io/][Sam Levigne]]
+- [[https://reas.com/][Casey Reas]]
+- [[https://www.ryoichikurokawa.com/][Ryochi Kurokawa]]
+- [[https://www.ryojiikeda.com/][Ryoji Ikeda]]
+- [[https://www.uva.co.uk/][United Visual Artists]]
+- [[https://portfolio.decontextualize.com/][Allison Parrish]]
+- [[https://inconvergent.net/][Anders Hoff]]
+- [[http://www.emohr.com/][Manfred Mohr]]
+- [[http://www.verostko.com/][Roman Verostko]]
+- [[http://www.veramolnar.com/][Vera Molnar]]
+
+
+
+* Week_01
+
+- Procedural art
+  - instructions and diagrams as a form of art
+
+    - research
+
+    - [[https://massmoca.org/sol-lewitt/][Sol Le Witt]]
+
+
+
+- [[https://openframeworks.cc/ofBook/chapters/setup_and_project_structure.html][OF Structure]]
+
+- Homework
+
+
+* Week_02
+
+** Extra resources
+- [[https://courses.cs.washington.edu/courses/cse378/97au/help/compilation.html][compilers]]
+
+- [[https://cplusplus.com/forum/articles/10627/][header files]]
+
+- [[https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=51d775dbf32c66fa2287c0067fad27b7fb37ac29][Golan Levin thesis]]
+
+- [[https://github.com/colormotor/PFAD/blob/main/docs/reference.md][Class notes]]
+
+- 
+
+** Extra reading stuff
+
+- [[https://openframeworks.cc/ofBook/chapters/cplusplus_basics.html][C++ Language basics]]
+- [[https://openframeworks.cc/ofBook/chapters/intro_to_graphics.html][OF Graphics]]
+- [[https://openframeworks.cc/ofBook/chapters/intro_to_graphics.html#movingtheworld][OF Transformations]]
+
+  
+
+- Drawing with of
+- Debugging
+- variables
+- conditionals
+- operators
+
+
+* Homework
+
+
+Prompt:
+
+Create a program that uses the mouse input + time to incrementally construct a complex and layered drawing or pattern. You should use the "ofSetBackgroundAuto(false)" trick to do so. Try to not make a system that only places shapes centered at the mouse position (mouseX and mouseY) but rather add some behavior, for example following the mouse with the technique described in the gestural drawing lab activity, or by using the position on the window to vary shape transoformations and colors. Think about how to expand, augment, complicate, abstract and generally alter the concept of drawing/painting/doodling, while not making a system that appears completely random and leaving a sense of "agency" to the user. Try to use transparency as a tool to create complexity and gradually work towards image complexity. Think about a class of patterns/textures that emerge after using the program for a while.
+
+You are free to use any of the code from the labs this week.
+Constraints:
+
+    You must use openFrameworks to generate your image.
+    Similarly to last week use the basic 2D shape primitives we learned and any other ones you feel like from this page.
+    You can use transformations (ofTranslate, ofScale, ofRotateDeg, ofRotateRad) within the work
+
+What to submit:
+
+    Take a screenshot of a result and submit on this page.
+    Please also post your 1 image in this thread. Feel free to share a bit of information about any visual inspirations. Include a link to your post in the text box of this submission.
+    Submit here a zip of the "src" directory containing the three files with code for your 1 image that you created. (main.cpp, ofApp.cpp, ofApp.h). Do not submit the IDE project files
+
+- 
+
+* Week_03
+
+
+** Extra resources
+- [[https://www.random.org/randomness/][randomness]]
+- [[https://www.youtube.com/embed/Z1lQCTunGxg][On Bridget Riley]]
+- [[http://op-art.co.uk/bridget-riley/][Bridget Riley words]]
+- [[https://player.vimeo.com/video/104315361][Frieder Nake video]]
+- [[https://www.atariarchives.org/artist/][Artist and Computer]]
+- [[https://10print.org/][10Print.org]]
+- [[https://en.wikipedia.org/wiki/Truchet_tiles][truchet tiles]]
+- [[https://en.wikipedia.org/wiki/Wang_tile][Wang tile]]
+- [[https://link.springer.com/article/10.1007/s00004-019-00454-3][Square Kufic]]
+
+
+** if statments
+
+- Save to SVG
+- transformations
+- rotate
+- push and pop
+- Functions are called in app::update
+
+** LOOPS
+
+
+
+
+* Week_04
+
+* Week_05
+
+* Week_06
+
+* Week_07
+
+* Week_08
+
+* Week_09
+
+* Week_10
