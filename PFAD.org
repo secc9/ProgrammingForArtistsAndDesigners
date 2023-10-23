@@ -145,6 +145,7 @@ What to submit:
 - [[https://10print.org/][10Print.org]]
 - [[https://en.wikipedia.org/wiki/Truchet_tiles][truchet tiles]]
 - [[https://en.wikipedia.org/wiki/Wang_tile][Wang tile]]
+- [[https://link.springer.com/article/10.1007/s00004-019-00454-3][Square Kufic]]
 
 
 ** if statments
