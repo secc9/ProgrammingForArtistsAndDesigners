@@ -163,7 +163,45 @@ What to submit:
 
 * Week_04
 
+- Arrays
+- vectors
+  - 2d
+  - glm - OF library for vectors
+- number generators
+  - vectors
+  - smooth randomness
+    - interpolation
+    - taking a series of descrete inputs and making a smooth random output
+
+
+- inspiration
+  - [[https://www.vam.ac.uk/exhibitions/chance-and-control-art-in-the-age-of-computers][V&A]]
+
+- [[https://www.businessinsider.com/7-gifs-trigonometry-sine-cosine-2013-5?IR=T][Sin explained]]
+
+- Perlin noise
+  - [[https://adrianb.io/2014/08/09/perlinnoise.html][Perlin noise explained]]
+
+  - [[https://cs.nyu.edu/~perlin/][Ken Perlin www]]
+      
+
+
 * Week_05
+
+
+
+
+
+
+Resources
+- [[https://issuu.com/jpagecorrigan/docs/type-code_yeohyun-ahn][type and code]]
+
+- [[https://lodev.org/cgtutor/randomnoise.html][graphics tutorial]]
+
+- [[https://openframeworks.cc/ofBook/chapters/stl_vector.html][vectorr]]s of book
+
+  
+
 
 * Week_06
 
