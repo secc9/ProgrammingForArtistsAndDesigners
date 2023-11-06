@@ -199,6 +199,96 @@ Resources
 - [[https://lodev.org/cgtutor/randomnoise.html][graphics tutorial]]
 
 - [[https://openframeworks.cc/ofBook/chapters/stl_vector.html][vectorr]]s of book
+n
+
+** start on your midterm project
+
+
+- [[https://learn.gold.ac.uk/mod/assign/view.php?id=1375057][vle proposal]]
+
+
+
+
+
+
+
+
+Prompt:
+
+Process, procedure, instructions. Can you make a generative "drawing" or set of generative instructions to make an artefact that is wall-mounted? 
+
+To create the final work you must translate from a screen-based or digital format into a physical format. Creating a professional print of a 2D image you generate with code might feel like the obvious thing to do, but is there a material, a making process or some sort of form that will align better with your concept or your personal creative practice? 
+
+At what stage are you a part of the making process? How can you take inspiration from wider art and design histories to situate your own creative processes? 
+
+Use the topics, and code provided within the first half of the term and your own weekly experiments as a starting place. You could reflect on and refine one of those experiments or combine two to make your work. 
+
+NOTE: This is NOT your final project, it is ONLY worth 10%. Keep it playful and experimental while starting to move toward some personal creative polish. The idea is to be using the weekly coding activities to spark some ideas, so in reality this project should start on week one of the term. 
+Ideas / Examples and Resources
+
+    Printing an image on paper or textile, either by exporting pngs from code sketches or by exporting svgs and scaling them up for print in software like Adobe Illustrator. If you don't have access to Adobe Photoshop for resizing bitmap images GIMP is a free image editing software.
+        Goldsmiths print services for nice posters. Examples of artists doing this could be Zach Lieberman and Casey Reas. There are also commercial art printers (e.g. The Print Space in London), but these get expensive quickly and might be something your use for a final project.
+            NOTE if your program generates a raster image and not a vector image, you will need to keep in mind that for printing it is desirable to have a very high resolution (usually 300 DPI). See this link for example. Outputting a SVG file will not pose any resolution problems as you can scale it without losing quality.
+        Printing in the library, perhaps for collage / modifying the printed image with some sort of analog process. Perhaps you could make a stencil for painting for example. A nice example of a previous student's final graduation project that uses classical coding and Machine Learning as a part of her painting practice is Anna Alfut
+        Unfortunately we don't have fabric printing services we have access to, but this is a reliable service.
+    Laser Cutting or engraving (in materials such as wood, glass, plexiglass), by exporting svgs from code sketches. You will need to have done a Hatchlab induction before you can do this.
+    Making 3D objects by extruding SVGs and then 3d printing those:
+        You can do this in many 3D modeling software such as
+
+        , which is a free and very powerful.
+        To use our 3D printers you will need to have done a Hatchlab induction
+    Using a pen and plotter
+        We have an AxiDraw (a commercially available plotter) that can be very easy to use by using a plugin to the open source vector editing software InkSkape
+        Studens on the MA/MFA computational arts have created plotters in physical computing before.
+        I have done a few works using vintage plotters and the AxiDraw, you can see many examples on Twitter by searching for the #plottertwitter hashtag and many pioneers of computer art used plotters to print their work. Notable examples of the latter are Vera Molnar and Manfred Mohr
+
+Constraints (also known as rules or restrictions):
+
+    You must use openFrameworks to generate the core part of this work. 
+    You should successfully use at least three of these coding fundamentals categories to do well on the technical front: variables, conditionals, loops, custom functions.
+    You cannot display the work on a screen or a projector.
+    Your final output, the creative work, must be something that you can easily mount onto a wall, either using blue tack, or thumb tacks or small nails.  
+    The work should be no larger than 1 meter by 1 meter on the wall. 
+    There must be NO live code running in the final form of the work.
+    NO addons allowed except ofxGui.
+
+FAQ
+
+    More info soon
+
+Deliverables or what to submit:
+
+The Project
+
+A zip of your code files, including everything needed to run the project (i.e. everything in the data folder, like images or fonts).
+Project Report
+
+You should submit a PDF of your report. You MUST follow the given template for the different sections and make sure the report is well formatted and readable.
+
+    The written portion should be 500-700 words maximum. This word count applies to the combined total of the Description and Reflection section.
+
+    Format should be a PDF.
+
+    You should include these subsections in your report in this order. 
+
+    Title of the work: Name of project
+
+    Brief description of the work: Think of this is the bit of text you would display next to your work (max 100 words).
+
+    Documentation: Include your documentation images in your report with small captions 
+
+    Reflection: Imagine that this is your first iteration of this project. What went well, what went badly? What would you do next? 
+
+    References: References to any code of others used or creative or theory inspirations. For code please include links to tutorials / code online you used or reference the books you used, you should also add comments in your code if you used someone else's code. For creative and theory references, if you are unsure about how to do academic citation please read this resource. I don't mind which academic style you prefer to use.
+
+Documentation
+
+    A screenshot of the raw output from your openFrameworks sketch. Please submit this as a png/jpg to this page. 
+
+    1 high quality image of the "final work" installed on a clean white wall (or a wall that adds to your concept). Try and use a good camera for this, you can borrow one from the library or ask a friend. Please submit this as a png/jpg to this page and include it in your report PDF. 
+
+    3 process shots / sketches of the making of the work, either screenshots of earlier iterations, of code, or images of any physical making process if you had one (these can be taken with a phone). These should just be included in your written documentation / report.
+
 
   
 
